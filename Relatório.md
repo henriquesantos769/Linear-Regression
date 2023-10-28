@@ -1,4 +1,4 @@
-# Linear-Regression
+# Linear Regression
 Uma aplicação de um modelo de regressão linear multipla na linguagem python.
 ## Contexto
 O modelo de **regressão linear**, é uma técnica que 
