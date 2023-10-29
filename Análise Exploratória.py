@@ -18,17 +18,14 @@ from yellowbrick.regressor import CooksDistance
 from statsmodels.stats.outliers_influence import OLSInfluence, variance_inflation_factor
 from sklearn.linear_model import LinearRegression
 
-
+'''
 cerveja_Df = pd.read_csv('Consumo_cerveja_sem_tratamento.csv')
 
-'''
 Visualizar as primeiras linhas do df
 Drop de NA e exibir os tipos de variáveis das colunas
 Somar as NAS 
-'''
 
 print(cerveja_Df.isna().sum())
-cerveja_Df_clean = cerveja_Df.dropna()
 
 print(cerveja_Df.head())
 print(cerveja_Df_clean.dtypes)
@@ -59,3 +56,5 @@ plt.show()
 #Gráfico de precipitação diária
 cerveja_Df_clean['Precipitacao (mm)'].plot(figsize=(15,7))
 plt.title('Precipitação em mm',size=15);
+
+'''

@@ -49,4 +49,4 @@ Embora o ideal seja que o modelo de regressão atenda a todas essas suposições
 # Dataset
 Os dados (amostra) foram coletados na cidade de São Paulo, no Brasil, em uma região universitária frequentada por grupos de estudantes com idades compreendidas entre 18 e 28 anos, em média. O conjunto de dados utilizado para esta análise inclui 7 variáveis, com foco em uma variável dependente, ao longo de um período de um ano.
 
-#Análises
+###  Relatório da Aplicação
