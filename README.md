@@ -1,5 +1,11 @@
 # Linear-Regression
 Uma aplicação de um modelo de regressão linear multipla na linguagem python.
+
+## Onde encontrar o relatório?
+ 1. Você pode encontrar e ler o relatório final deste trabalho no arquivo: Relatório Final Análise de Regressão.ipynb
+
+2. Em seguida você se abtuará com alguns conceitos além de uma breve explicação dos dados ultilizados neste trabalho.
+
 ## Contexto
 O modelo de **regressão linear**, é uma técnica que 
 cria uma equação para relacionar uma **variável 
